@@ -1,0 +1,20 @@
+.actionButton{
+  display: flex;
+}
+
+.actionButton button{
+    padding: 15px;
+    background-color: rgb(79, 58, 183);
+    color: white;
+    border: none;
+    outline: none;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 10px 10px;
+  }
+  
+  .actionButton button:hover{
+    opacity: 0.9;
+    cursor: pointer;
+  }
+  

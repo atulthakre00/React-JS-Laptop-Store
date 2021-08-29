@@ -1,0 +1,93 @@
+{ "laptops": [
+    {
+      "name": "HP Omen",
+      "ram": "8 GB DDR4",
+      "display": "15.6",
+      "memory": "512 GB SDD",
+      "processor": "Ryzen 5-4600H",
+      "price": 78990,
+      "imageUrl": "/img/hp2.jpg",
+      "quantity": "6"
+    },
+    {
+      "name": "Apple MacBook Pro",
+      "ram": "8 GB DDR4",
+      "display": "13",
+      "memory": "256 GB SDD",
+      "processor": "Core i5 8th Gen",
+      "price": 99990,
+      "imageUrl": "/img/mac1.jpg",
+      "quantity": "13"
+    },
+    {
+      "name": "Dell G3 3500",
+      "ram": "8 GB DDR4",
+      "display": "15.6",
+      "memory": "1TB HDD, 256 GB SDD",
+      "processor": "Core i5 10th Gen",
+      "price": 74000,
+      "imageUrl": "/img/dell2.jpg",
+      "quantity": "8"
+    },
+    {
+      "name": "Asus TUF F15",
+      "ram": "8 GB DDR4",
+      "display": "15.6",
+      "memory": "512 GB SDD",
+      "processor": "Core i7 10th Gen",
+      "price": 76000,
+      "imageUrl": "/img/asus2.jpg",
+      "quantity": "4"
+    },
+    {
+      "name": "HP 14S",
+      "ram": "4GB",
+      "display": "14",
+      "memory": "256 GB SSD",
+      "processor": "Core i3 10th Gen",
+      "price": 30000,
+      "imageUrl": "/img/hp1.jpg",
+      "quantity": "5"
+    }, 
+    {
+      "name": "Asus Chromebook",
+      "ram": "4 GB",
+      "display": "15.6",
+      "memory": "32 GB SSD",
+      "processor": "Celeron Dual Core",
+      "price": 39000,
+      "imageUrl": "/img/asus1.jpg",
+      "quantity": "7"
+    },
+    {
+      "name": "Acer Aspire A515-51G",
+      "ram": "8 GB",
+      "display": "15.6",
+      "memory": "1 TBH DD",
+      "processor": "Core i5",
+      "price": 36890,
+      "imageUrl": "/img/acer1.jpg",
+      "quantity": "3"
+    },
+    {
+      "name": "Dell Vostro 3449",
+      "ram": "4 GB",
+      "display": "15.6",
+      "memory": "500 GB HDD",
+      "processor": "Core i5",
+      "price": 40690,
+      "imageUrl": "/img/dell1.jpg",
+      "quantity": "8"
+    },
+    {
+      "name": "Lenovo Ideapad",
+      "ram": "8 GB",
+      "display": "15.6",
+      "memory": "512 GB SDD",
+      "processor": "Core i5",
+      "price": 50000,
+      "imageUrl": "/img/lenevo1.jpg",
+      "quantity": "3"
+    }
+  ]
+}

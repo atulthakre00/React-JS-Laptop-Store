@@ -1,0 +1,26 @@
+.actionBar{
+    background-color: white;
+    box-shadow: 0 20px 50px rgba(79, 58, 183, 0.5);
+    display: flex;
+    margin: 20px 20px;
+}
+
+.searchContainer , .actionSpan{
+    display: flex;
+    margin: 10px;   
+}
+
+input[type=text]{
+    padding: 5px 10px;
+    font-size: large;
+    outline: none;
+    border-radius: 5px;
+    background-color: rgb(245, 245, 245);
+    border: 1px solid rgb(79, 58, 183);
+}
+
+label{
+    font-size: large;
+    margin: 0 20px;
+    padding: 10px;
+}
